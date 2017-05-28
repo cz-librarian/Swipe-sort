@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SwipeSort</string>
+    <string name="cdCiv" >Currently assessed image.</string>
 </resources>
